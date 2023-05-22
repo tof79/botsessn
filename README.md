@@ -3,7 +3,7 @@
 > A star ⭐ from you means a lot to us!
           > نجم ⭐ منك يعني الكثير بالنسبة لنا       
 
-<p align="center"><a href="https://github.com/Abdulrahmman8894/StringSessionBot"><img src="https://telegra.ph/file/f0b1deac7251ef1b32053.jpg" width="2000"></a></p>
+<p align="center"><a href="https://github.com/tof79/botsessn"><img src="https://telegra.ph/file/f0b1deac7251ef1b32053.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
@@ -23,7 +23,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. استنساخ الريبو
    ```markdown
-   استنساخ بوابة https://github.com/Abdulrahmman8894/StringSessionBot
+   استنساخ بوابة https://github.com/tof79/botsessn
    ```
 2. احصل على DATABASE_URL. إذا كنت لا تعرف كيف ، فقم بالنشر باستخدام Heroku Button فقط أو احذف عناصر قاعدة البيانات لأنه ليس إكراهًا.
    
@@ -75,6 +75,6 @@ Group Chat :- [@T_c_F](https://t.me/T_c_F)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Abdulrahmman8894/StringSessionBot)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/tof79/botsessn)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/Abdulrahmman8894/StringSessionBot)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/tof79/botsessn)
